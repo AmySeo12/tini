@@ -46,11 +46,10 @@ ul li {
 	margin-top: 20px !Important;
 }
 .forma {
-	background-color: #CCCCCC;
+	background-image: url(http://placehold.it/300x300);
 	width: 300px;
 	height: 300px;
 	margin: 20px auto !Important;
-	padding: 145px 100px;
 	font-size: 25px;
 	color: #969696;
 }
